@@ -8,8 +8,8 @@
   --middle-font-size: 1.125rem;
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
-  --bg-color: #532b93d7;
-  --second-bg-color: rgb(204, 187, 213);
+  --bg-color: #09599fd7;
+  --second-bg-color: rgb(138, 188, 184);
   --text-color:#0a0a38;
   --second-text-color: #080000;
   --main-color:#131613;
@@ -34,7 +34,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background: rgb(204, 187, 213);
+  background:  rgb(138, 188, 184);
 }
 
 li{
